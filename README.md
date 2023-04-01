@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liza</h1>
 <h3 align="center">I create things !</h3>
-<img align="right" alt="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
+<img align="right" alt="https://images.squarespace-cdn.com/content/v1/581499b8e58c627afce6221c/1581466535600-K13XTW44G4XOOC0RFPN5/winky.gif?format=500w">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohliza&label=Profile%20views&color=0e75b6&style=flat" alt="ohliza" /> </p>
 
