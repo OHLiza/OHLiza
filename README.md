@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liza !</h1>
-<h3 align="center">I create things !</h3>
+<h3 align="center">I occasionally create things !</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohliza&label=Profile%20views&color=0e75b6&style=flat" alt="ohliza" /> </p>
 
 
