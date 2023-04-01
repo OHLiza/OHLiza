@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **CS50, Blender 3D**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
